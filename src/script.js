@@ -129,4 +129,3 @@ function prepareTimeString(fullTime) {
 // the displayed playlist length in real-time.
 
 setInterval(fetchLength, 1000);
-console.log("script 2 loaded")
