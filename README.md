@@ -2,11 +2,11 @@
 
 *Introducing Open Source **"Youtube Playlist Time Tracker"** - Uncover the **Length** of Your Favorite YouTube Playlists!*
 
-Have you ever wondered how much time you've spent watching your beloved YouTube playlists? Say goodbye to the guessing game with This "Playlist Time Tracker" Chrome extension! Gain instant insights into the **total length of any YouTube playlist in seconds**
+Have you ever wondered how much time you've spent watching your beloved YouTube playlists? Say goodbye to the guessing game with "Playlist Time Tracker" Chrome extension! Gain instant insights into the **total length of any YouTube playlist in seconds**
 
 Before using            |  After using
 :-------------------------:|:-------------------------:
-![Before using Extension](./img/before_use.png) |  ![After using Extension](./img/after_use.png)
+![Alt text](./img/before_use.png) |  ![After using Extension](./img/after_use.png)
 
 With **"Youtube Playlist Time Tracker,"** you can effortlessly measure the **duration of any playlist in `days`, `hours`, `minutes`, and `seconds`.** Whether it's a collection of captivating TED Talks, a binge-worthy TV show playlist, or an educational course, this extension unveils the precise time investment required.
 
@@ -35,7 +35,7 @@ To locally set up the **"Youtube Playlist Time Tracker"** Chrome extension, foll
 5. Test the Extension:
    - Visit any YouTube playlist page in Chrome.(else checkout [this](https://www.youtube.com/playlist?list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC))
 
-        ![Alt text](./img/setup.png)
+        ![Alt text](./img/after_use.png)
 
 Congratulations! You have successfully set up the **"YouTube Playlist Time Tracker"** Chrome extension locally. Now you can use it to track the lengths of your favorite YouTube playlists right from your browser.
 
